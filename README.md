@@ -4,10 +4,9 @@ $echo_on
 #!/usr/local/bin/perl
 #
 # Date: Fri, 21 Jun 1996 14:48:20 -0400 (EDT)
-# From: "Mark A. Imbriaco" <mark@itribe.net>
-# Subject: Netscape->Apache Configuration File Convertor.
+# Frstr->Apache Configuration File Convertor.zip 
 #
-#
+#ServerName host.foo.com is a set of filenames 
 #	Well, here's the script that I made to convert from Netscape
 #	to Apache.  This doesn't handle all of the Configuration directives,
 #	but it does to a reasonable subset, and is useable in it's current
