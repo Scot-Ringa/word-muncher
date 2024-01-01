@@ -1,3 +1,5 @@
+@solr-node
+13193203284.vcf@gmail.com
 @str77781.ai
 $echo_on
 @echo_run~true
